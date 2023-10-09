@@ -20,6 +20,7 @@ Detection -
 | Average precision                      | -             |
 
 Screenshot of the best 5 predicted frames with bounding boxes and confidence level from DATASET 1 (including the CI in the screenshot itself)- 
+
 <img width="419" alt="1_3" src="https://github.com/stonerrb/MisaHub/assets/90149808/8f49bae5-fbf8-409f-9d65-99d3e83d34c9">
 
 <img width="404" alt="1_1" src="https://github.com/stonerrb/MisaHub/assets/90149808/8b288937-56be-4fec-816f-a8bc76f08004">
