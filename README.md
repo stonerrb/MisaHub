@@ -1,6 +1,8 @@
 # CluelessCoders AutoWCEBleedGen Challenge MISAHUB
 Welcome to CluelessCoders’ GitHub repository on Auto-WCEBleedGen Challenge MISAHUB 2023! This repository contains code, datasets, and a stored model for the image classification as bleeding or non-bleeding. We also have an Excel sheet containing the image IDs and predicted class labels for testing datasets 1 and 2.
 
+Finalised ColabNotebook is MisaHubResNet_FINAL.ipynb
+
 Achieved evaluation metrics of the validation dataset.
 
 Classification - 
