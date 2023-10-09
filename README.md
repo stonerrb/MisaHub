@@ -39,6 +39,6 @@ Screenshot of the best 5 predicted frames with bounding boxes and confidence lev
 <img width="442" alt="2_3" src="https://github.com/stonerrb/MisaHub/assets/90149808/39bbcef9-9361-4af6-a090-bd7724265a20">
 
 Stored Model drive link with access : https://drive.google.com/drive/folders/1s5poG5v3myJqoR2GBYZwbCbMeDJ9wSSu?usp=sharing 
-resnet_model_MISAHUB for classification 
+resnet_model_MISAHUB for classification <br>
 best.pt for yolov5 
 
